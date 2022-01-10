@@ -1,0 +1,485 @@
+<?xml version='1.0' encoding='utf-8'?>
+<project name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/hola-mundo.clpprj">
+ <settings>
+  <PM_URL><![CDATA[http://localhost/hola-mundo/]]></PM_URL>
+  <PM_HOME_URL><![CDATA[http://localhost/hola-mundo/]]></PM_HOME_URL>
+  <PM_LIBS><![CDATA[]]></PM_LIBS>
+  <PM_FTP_CONNECTION><![CDATA[]]></PM_FTP_CONNECTION>
+  <PM_FTP_DIR><![CDATA[]]></PM_FTP_DIR>
+  <PM_FTP_UPLOAD_ON_SAVE><![CDATA[INT:0]]></PM_FTP_UPLOAD_ON_SAVE>
+  <PM_LANGUAGE><![CDATA[]]></PM_LANGUAGE>
+ </settings>
+ <removed value=";"/>
+ <added value=""/>
+ <lastopfiles>
+  <file name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/application/controllers/Gracias.php"/>
+  <file name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/application/views/gracias.php"/>
+  <lastactivefile name=""/>
+ </lastopfiles>
+ <errors version="1.12.0"/>
+ <cakedata/>
+ <dplmenupath/>
+ <laravael/>
+ <smartyassings/>
+ <twigtemplate/>
+ <yiidata/>
+ <todoblock>
+  <todofile name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/database/DB_query_builder.php">
+   <todo pos="5;2003" name="todo error"/>
+   <todo pos="4;2003" name="@todo error"/>
+  </todofile>
+  <todofile name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/helpers/string_helper.php">
+   <todo pos="19;229" name="todo: remove in 3.1+"/>
+   <todo pos="20;232" name="todo: remove in 3.1+"/>
+  </todofile>
+  <todofile name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/libraries/Xmlrpc.php">
+   <todo pos="7;1574" name="todo - this needs to be made more general purpose"/>
+   <todo pos="6;1574" name="@todo - this needs to be made more general purpose"/>
+  </todofile>
+  <todofile name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/_static/jquery-3.1.0.js">
+   <todo pos="8;797" name="TODO: identify versions"/>
+   <todo pos="7;811" name="TODO: identify versions"/>
+   <todo pos="48;4120" name="TODO: Drop _data, _removeData)"/>
+   <todo pos="2;4170" name="TODO: Now that all calls to _data and _removeData have been replaced"/>
+  </todofile>
+ </todoblock>
+ <dbgurls/>
+ <filescache>
+  <file crc="1641575975829" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/tutorial/static_pages.html"/>
+  <file crc="1641575975828" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/tutorial/news_section.html"/>
+  <file crc="1641575975828" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/tutorial/index.html"/>
+  <file crc="1641575975827" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/tutorial/create_news_items.html"/>
+  <file crc="1641575975827" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/tutorial/conclusion.html"/>
+  <file crc="1641575975824" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/overview/mvc.html"/>
+  <file crc="1641575975823" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/overview/index.html"/>
+  <file crc="1641575975823" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/overview/goals.html"/>
+  <file crc="1641575975823" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/overview/getting_started.html"/>
+  <file crc="1641575975822" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/overview/features.html"/>
+  <file crc="1641575975822" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/overview/at_a_glance.html"/>
+  <file crc="1641575975821" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/overview/appflow.html"/>
+  <file crc="1641575975820" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/libraries/zip.html"/>
+  <file crc="1641575975820" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/libraries/xmlrpc.html"/>
+  <file crc="1641575975819" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/libraries/user_agent.html"/>
+  <file crc="1641575975818" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/libraries/uri.html"/>
+  <file crc="1641575975818" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/libraries/unit_testing.html"/>
+  <file crc="1641575975817" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/libraries/typography.html"/>
+  <file crc="1641575975817" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/libraries/trackback.html"/>
+  <file crc="1641575975816" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/libraries/table.html"/>
+  <file crc="1641575975816" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/libraries/sessions.html"/>
+  <file crc="1641575975815" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/libraries/security.html"/>
+  <file crc="1641575975814" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/libraries/parser.html"/>
+  <file crc="1641575975814" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/libraries/pagination.html"/>
+  <file crc="1641575975813" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/libraries/output.html"/>
+  <file crc="1641575975812" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/libraries/migration.html"/>
+  <file crc="1641575975812" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/libraries/loader.html"/>
+  <file crc="1641575975811" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/libraries/language.html"/>
+  <file crc="1641575975810" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/libraries/javascript.html"/>
+  <file crc="1641575975810" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/libraries/input.html"/>
+  <file crc="1641575975809" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/libraries/index.html"/>
+  <file crc="1641575975809" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/libraries/image_lib.html"/>
+  <file crc="1641575975808" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/libraries/ftp.html"/>
+  <file crc="1641575975807" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/libraries/form_validation.html"/>
+  <file crc="1641575975807" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/libraries/file_uploading.html"/>
+  <file crc="1641575975806" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/libraries/encryption.html"/>
+  <file crc="1641575975806" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/libraries/encrypt.html"/>
+  <file crc="1641575975805" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/libraries/email.html"/>
+  <file crc="1641575975805" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/libraries/config.html"/>
+  <file crc="1641575975804" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/libraries/cart.html"/>
+  <file crc="1641575975804" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/libraries/calendar.html"/>
+  <file crc="1641575975803" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/libraries/caching.html"/>
+  <file crc="1641575975802" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/libraries/benchmark.html"/>
+  <file crc="1641575975802" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/installation/upgrading.html"/>
+  <file crc="1641575975801" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/installation/upgrade_b11.html"/>
+  <file crc="1641575975801" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/installation/upgrade_319.html"/>
+  <file crc="1641575975801" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/installation/upgrade_318.html"/>
+  <file crc="1641575975800" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/installation/upgrade_317.html"/>
+  <file crc="1641575975800" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/installation/upgrade_316.html"/>
+  <file crc="1641575975799" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/installation/upgrade_315.html"/>
+  <file crc="1641575975799" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/installation/upgrade_314.html"/>
+  <file crc="1641575975798" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/installation/upgrade_313.html"/>
+  <file crc="1641575975798" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/installation/upgrade_312.html"/>
+  <file crc="1641575975798" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/installation/upgrade_3111.html"/>
+  <file crc="1641575975797" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/installation/upgrade_3110.html"/>
+  <file crc="1641575975797" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/installation/upgrade_311.html"/>
+  <file crc="1641575975796" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/installation/upgrade_310.html"/>
+  <file crc="1641575975796" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/installation/upgrade_306.html"/>
+  <file crc="1641575975795" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/installation/upgrade_305.html"/>
+  <file crc="1641575975795" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/installation/upgrade_304.html"/>
+  <file crc="1641575975794" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/installation/upgrade_303.html"/>
+  <file crc="1641575975794" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/installation/upgrade_302.html"/>
+  <file crc="1641575975793" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/installation/upgrade_301.html"/>
+  <file crc="1641575975793" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/installation/upgrade_300.html"/>
+  <file crc="1641575975792" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/installation/upgrade_223.html"/>
+  <file crc="1641575975792" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/installation/upgrade_222.html"/>
+  <file crc="1641575975791" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/installation/upgrade_221.html"/>
+  <file crc="1641575975791" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/installation/upgrade_220.html"/>
+  <file crc="1641575975790" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/installation/upgrade_214.html"/>
+  <file crc="1641575975790" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/installation/upgrade_213.html"/>
+  <file crc="1641575975789" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/installation/upgrade_212.html"/>
+  <file crc="1641575975789" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/installation/upgrade_211.html"/>
+  <file crc="1641575975789" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/installation/upgrade_210.html"/>
+  <file crc="1641575975788" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/installation/upgrade_203.html"/>
+  <file crc="1641575975788" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/installation/upgrade_202.html"/>
+  <file crc="1641575975787" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/installation/upgrade_201.html"/>
+  <file crc="1641575975787" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/installation/upgrade_200.html"/>
+  <file crc="1641575975786" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/installation/upgrade_172.html"/>
+  <file crc="1641575975786" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/installation/upgrade_171.html"/>
+  <file crc="1641575975785" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/installation/upgrade_170.html"/>
+  <file crc="1641575975785" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/installation/upgrade_163.html"/>
+  <file crc="1641575975785" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/installation/upgrade_162.html"/>
+  <file crc="1641575975784" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/installation/upgrade_161.html"/>
+  <file crc="1641575975784" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/installation/upgrade_160.html"/>
+  <file crc="1641575975783" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/installation/upgrade_154.html"/>
+  <file crc="1641575975783" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/installation/upgrade_153.html"/>
+  <file crc="1641575975783" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/installation/upgrade_152.html"/>
+  <file crc="1641575975782" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/installation/upgrade_150.html"/>
+  <file crc="1641575975782" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/installation/upgrade_141.html"/>
+  <file crc="1641575975781" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/installation/upgrade_140.html"/>
+  <file crc="1641575975781" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/installation/upgrade_133.html"/>
+  <file crc="1641575975780" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/installation/upgrade_132.html"/>
+  <file crc="1641575975780" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/installation/upgrade_131.html"/>
+  <file crc="1641575975779" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/installation/upgrade_130.html"/>
+  <file crc="1641575975779" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/installation/upgrade_120.html"/>
+  <file crc="1641575975778" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/installation/troubleshooting.html"/>
+  <file crc="1641575975778" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/installation/index.html"/>
+  <file crc="1641575975778" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/installation/downloads.html"/>
+  <file crc="1641575975777" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/helpers/xml_helper.html"/>
+  <file crc="1641575975776" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/helpers/url_helper.html"/>
+  <file crc="1641575975775" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/helpers/typography_helper.html"/>
+  <file crc="1641575975775" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/helpers/text_helper.html"/>
+  <file crc="1641575975775" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/helpers/string_helper.html"/>
+  <file crc="1641575975774" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/helpers/smiley_helper.html"/>
+  <file crc="1641575975774" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/helpers/security_helper.html"/>
+  <file crc="1641575975773" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/helpers/path_helper.html"/>
+  <file crc="1641575975773" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/helpers/number_helper.html"/>
+  <file crc="1641575975772" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/helpers/language_helper.html"/>
+  <file crc="1641575975772" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/helpers/inflector_helper.html"/>
+  <file crc="1641575975771" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/helpers/index.html"/>
+  <file crc="1641575975771" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/helpers/html_helper.html"/>
+  <file crc="1641575975770" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/helpers/form_helper.html"/>
+  <file crc="1641575975770" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/helpers/file_helper.html"/>
+  <file crc="1641575975769" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/helpers/email_helper.html"/>
+  <file crc="1641575975769" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/helpers/download_helper.html"/>
+  <file crc="1641575975768" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/helpers/directory_helper.html"/>
+  <file crc="1641575975768" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/helpers/date_helper.html"/>
+  <file crc="1641575975767" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/helpers/cookie_helper.html"/>
+  <file crc="1641575975767" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/helpers/captcha_helper.html"/>
+  <file crc="1641575975766" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/helpers/array_helper.html"/>
+  <file crc="1641575975765" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/general/welcome.html"/>
+  <file crc="1641575975765" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/general/views.html"/>
+  <file crc="1641575975764" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/general/urls.html"/>
+  <file crc="1641575975764" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/general/styleguide.html"/>
+  <file crc="1641575975763" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/general/security.html"/>
+  <file crc="1641575975763" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/general/routing.html"/>
+  <file crc="1641575975762" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/general/reserved_names.html"/>
+  <file crc="1641575975762" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/general/requirements.html"/>
+  <file crc="1641575975761" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/general/profiling.html"/>
+  <file crc="1641575975761" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/general/models.html"/>
+  <file crc="1641575975760" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/general/managing_apps.html"/>
+  <file crc="1641575975760" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/general/libraries.html"/>
+  <file crc="1641575975759" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/general/index.html"/>
+  <file crc="1641575975759" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/general/hooks.html"/>
+  <file crc="1641575975758" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/general/helpers.html"/>
+  <file crc="1641575975758" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/general/errors.html"/>
+  <file crc="1641575975757" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/general/environments.html"/>
+  <file crc="1641575975757" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/general/drivers.html"/>
+  <file crc="1641575975756" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/general/credits.html"/>
+  <file crc="1641575975756" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/general/creating_libraries.html"/>
+  <file crc="1641575975755" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/general/creating_drivers.html"/>
+  <file crc="1641575975755" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/general/core_classes.html"/>
+  <file crc="1641575975755" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/general/controllers.html"/>
+  <file crc="1641575975754" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/general/compatibility_functions.html"/>
+  <file crc="1641575975754" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/general/common_functions.html"/>
+  <file crc="1641575975753" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/general/cli.html"/>
+  <file crc="1641575975753" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/general/caching.html"/>
+  <file crc="1641575975752" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/general/autoloader.html"/>
+  <file crc="1641575975752" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/general/ancillary_classes.html"/>
+  <file crc="1641575975752" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/general/alternative_php.html"/>
+  <file crc="1641575975751" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/documentation/index.html"/>
+  <file crc="1641575975750" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/database/utilities.html"/>
+  <file crc="1641575975750" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/database/transactions.html"/>
+  <file crc="1641575975749" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/database/results.html"/>
+  <file crc="1641575975749" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/database/query_builder.html"/>
+  <file crc="1641575975748" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/database/queries.html"/>
+  <file crc="1641575975747" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/database/metadata.html"/>
+  <file crc="1641575975747" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/database/index.html"/>
+  <file crc="1641575975746" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/database/helpers.html"/>
+  <file crc="1641575975746" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/database/forge.html"/>
+  <file crc="1641575975745" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/database/examples.html"/>
+  <file crc="1641575975745" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/database/db_driver_reference.html"/>
+  <file crc="1641575975744" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/database/connecting.html"/>
+  <file crc="1641575975744" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/database/configuration.html"/>
+  <file crc="1641575975743" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/database/call_function.html"/>
+  <file crc="1641575975743" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/database/caching.html"/>
+  <file crc="1641575975743" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/contributing/index.html"/>
+  <file crc="1641575975736" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/_static/js/theme.js"/>
+  <file crc="1641575975736" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/_static/js/oldtheme.js"/>
+  <file crc="1641575975701" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/_static/css/theme.css"/>
+  <file crc="1641575975701" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/_static/css/citheme.css"/>
+  <file crc="1641575975700" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/_static/css/badge_only.css"/>
+  <file crc="1641575975740" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/_static/websupport.js"/>
+  <file crc="1641575975739" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/_static/underscore.js"/>
+  <file crc="1641575975738" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/_static/underscore-1.3.1.js"/>
+  <file crc="1641575975738" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/_static/searchtools.js"/>
+  <file crc="1641575975737" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/_static/pygments.css"/>
+  <file crc="1641575975735" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/_static/jquery.js"/>
+  <file crc="1641575975734" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/_static/jquery-3.1.0.js"/>
+  <file crc="1641575975702" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/_static/doctools.js"/>
+  <file crc="1641575975699" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/_static/basic.css"/>
+  <file crc="1641575975826" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/searchindex.js"/>
+  <file crc="1641575975824" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/search.html"/>
+  <file crc="1641575975820" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/license.html"/>
+  <file crc="1641575975777" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/index.html"/>
+  <file crc="1641575975766" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/genindex.html"/>
+  <file crc="1641575975697" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/DCO.html"/>
+  <file crc="1641575975742" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/user_guide/changelog.html"/>
+  <file crc="1641575975692" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/libraries/Session/drivers/Session_redis_driver.php"/>
+  <file crc="1641575975691" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/libraries/Session/drivers/Session_memcached_driver.php"/>
+  <file crc="1641575975691" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/libraries/Session/drivers/Session_files_driver.php"/>
+  <file crc="1641575975690" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/libraries/Session/drivers/Session_database_driver.php"/>
+  <file crc="1641575975692" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/libraries/Session/drivers/index.html"/>
+  <file crc="1641575975689" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/libraries/Session/SessionHandlerInterface.php"/>
+  <file crc="1641575975690" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/libraries/Session/Session_driver.php"/>
+  <file crc="1641575975689" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/libraries/Session/Session.php"/>
+  <file crc="1641575975692" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/libraries/Session/index.html"/>
+  <file crc="1641575975686" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/libraries/Javascript/Jquery.php"/>
+  <file crc="1641575975686" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/libraries/Javascript/index.html"/>
+  <file crc="1641575975682" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/libraries/Cache/drivers/index.html"/>
+  <file crc="1641575975681" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/libraries/Cache/drivers/Cache_wincache.php"/>
+  <file crc="1641575975681" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/libraries/Cache/drivers/Cache_redis.php"/>
+  <file crc="1641575975680" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/libraries/Cache/drivers/Cache_memcached.php"/>
+  <file crc="1641575975680" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/libraries/Cache/drivers/Cache_file.php"/>
+  <file crc="1641575975680" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/libraries/Cache/drivers/Cache_dummy.php"/>
+  <file crc="1641575975680" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/libraries/Cache/drivers/Cache_apc.php"/>
+  <file crc="1641575975682" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/libraries/Cache/index.html"/>
+  <file crc="1641575975679" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/libraries/Cache/Cache.php"/>
+  <file crc="1641575975696" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/libraries/Zip.php"/>
+  <file crc="1641575975696" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/libraries/Xmlrpcs.php"/>
+  <file crc="1641575975695" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/libraries/Xmlrpc.php"/>
+  <file crc="1641575975695" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/libraries/User_agent.php"/>
+  <file crc="1641575975694" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/libraries/Upload.php"/>
+  <file crc="1641575975694" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/libraries/Unit_test.php"/>
+  <file crc="1641575975693" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/libraries/Typography.php"/>
+  <file crc="1641575975693" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/libraries/Trackback.php"/>
+  <file crc="1641575975693" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/libraries/Table.php"/>
+  <file crc="1641575975688" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/libraries/Profiler.php"/>
+  <file crc="1641575975688" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/libraries/Parser.php"/>
+  <file crc="1641575975687" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/libraries/Pagination.php"/>
+  <file crc="1641575975687" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/libraries/Migration.php"/>
+  <file crc="1641575975686" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/libraries/Javascript.php"/>
+  <file crc="1641575975696" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/libraries/index.html"/>
+  <file crc="1641575975685" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/libraries/Image_lib.php"/>
+  <file crc="1641575975685" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/libraries/Ftp.php"/>
+  <file crc="1641575975685" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/libraries/Form_validation.php"/>
+  <file crc="1641575975684" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/libraries/Encryption.php"/>
+  <file crc="1641575975684" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/libraries/Encrypt.php"/>
+  <file crc="1641575975683" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/libraries/Email.php"/>
+  <file crc="1641575975683" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/libraries/Driver.php"/>
+  <file crc="1641575975682" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/libraries/Cart.php"/>
+  <file crc="1641575975682" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/libraries/Calendar.php"/>
+  <file crc="1641575975678" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/language/english/upload_lang.php"/>
+  <file crc="1641575975678" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/language/english/unit_test_lang.php"/>
+  <file crc="1641575975678" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/language/english/profiler_lang.php"/>
+  <file crc="1641575975677" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/language/english/pagination_lang.php"/>
+  <file crc="1641575975677" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/language/english/number_lang.php"/>
+  <file crc="1641575975677" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/language/english/migration_lang.php"/>
+  <file crc="1641575975676" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/language/english/index.html"/>
+  <file crc="1641575975676" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/language/english/imglib_lang.php"/>
+  <file crc="1641575975676" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/language/english/ftp_lang.php"/>
+  <file crc="1641575975675" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/language/english/form_validation_lang.php"/>
+  <file crc="1641575975675" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/language/english/email_lang.php"/>
+  <file crc="1641575975675" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/language/english/db_lang.php"/>
+  <file crc="1641575975675" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/language/english/date_lang.php"/>
+  <file crc="1641575975674" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/language/english/calendar_lang.php"/>
+  <file crc="1641575975679" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/language/index.html"/>
+  <file crc="1641575975674" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/helpers/xml_helper.php"/>
+  <file crc="1641575975673" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/helpers/url_helper.php"/>
+  <file crc="1641575975673" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/helpers/typography_helper.php"/>
+  <file crc="1641575975673" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/helpers/text_helper.php"/>
+  <file crc="1641575975672" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/helpers/string_helper.php"/>
+  <file crc="1641575975672" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/helpers/smiley_helper.php"/>
+  <file crc="1641575975672" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/helpers/security_helper.php"/>
+  <file crc="1641575975671" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/helpers/path_helper.php"/>
+  <file crc="1641575975671" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/helpers/number_helper.php"/>
+  <file crc="1641575975671" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/helpers/language_helper.php"/>
+  <file crc="1641575975670" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/helpers/inflector_helper.php"/>
+  <file crc="1641575975670" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/helpers/index.html"/>
+  <file crc="1641575975670" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/helpers/html_helper.php"/>
+  <file crc="1641575975669" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/helpers/form_helper.php"/>
+  <file crc="1641575975669" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/helpers/file_helper.php"/>
+  <file crc="1641575975669" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/helpers/email_helper.php"/>
+  <file crc="1641575975668" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/helpers/download_helper.php"/>
+  <file crc="1641575975668" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/helpers/directory_helper.php"/>
+  <file crc="1641575975668" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/helpers/date_helper.php"/>
+  <file crc="1641575975667" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/helpers/cookie_helper.php"/>
+  <file crc="1641575975667" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/helpers/captcha_helper.php"/>
+  <file crc="1641575975667" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/helpers/array_helper.php"/>
+  <file crc="1641575975665" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/fonts/index.html"/>
+  <file crc="1641575975664" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/database/drivers/sqlsrv/sqlsrv_utility.php"/>
+  <file crc="1641575975664" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/database/drivers/sqlsrv/sqlsrv_result.php"/>
+  <file crc="1641575975664" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/database/drivers/sqlsrv/sqlsrv_forge.php"/>
+  <file crc="1641575975664" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/database/drivers/sqlsrv/sqlsrv_driver.php"/>
+  <file crc="1641575975663" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/database/drivers/sqlsrv/index.html"/>
+  <file crc="1641575975663" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/database/drivers/sqlite3/sqlite3_utility.php"/>
+  <file crc="1641575975662" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/database/drivers/sqlite3/sqlite3_result.php"/>
+  <file crc="1641575975662" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/database/drivers/sqlite3/sqlite3_forge.php"/>
+  <file crc="1641575975662" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/database/drivers/sqlite3/sqlite3_driver.php"/>
+  <file crc="1641575975661" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/database/drivers/sqlite3/index.html"/>
+  <file crc="1641575975661" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/database/drivers/sqlite/sqlite_utility.php"/>
+  <file crc="1641575975661" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/database/drivers/sqlite/sqlite_result.php"/>
+  <file crc="1641575975661" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/database/drivers/sqlite/sqlite_forge.php"/>
+  <file crc="1641575975660" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/database/drivers/sqlite/sqlite_driver.php"/>
+  <file crc="1641575975660" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/database/drivers/sqlite/index.html"/>
+  <file crc="1641575975659" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/database/drivers/postgre/postgre_utility.php"/>
+  <file crc="1641575975659" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/database/drivers/postgre/postgre_result.php"/>
+  <file crc="1641575975659" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/database/drivers/postgre/postgre_forge.php"/>
+  <file crc="1641575975658" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/database/drivers/postgre/postgre_driver.php"/>
+  <file crc="1641575975658" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/database/drivers/postgre/index.html"/>
+  <file crc="1641575975658" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/database/drivers/pdo/subdrivers/pdo_sqlsrv_forge.php"/>
+  <file crc="1641575975657" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/database/drivers/pdo/subdrivers/pdo_sqlsrv_driver.php"/>
+  <file crc="1641575975657" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/database/drivers/pdo/subdrivers/pdo_sqlite_forge.php"/>
+  <file crc="1641575975657" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/database/drivers/pdo/subdrivers/pdo_sqlite_driver.php"/>
+  <file crc="1641575975657" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/database/drivers/pdo/subdrivers/pdo_pgsql_forge.php"/>
+  <file crc="1641575975656" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/database/drivers/pdo/subdrivers/pdo_pgsql_driver.php"/>
+  <file crc="1641575975656" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/database/drivers/pdo/subdrivers/pdo_odbc_forge.php"/>
+  <file crc="1641575975655" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/database/drivers/pdo/subdrivers/pdo_odbc_driver.php"/>
+  <file crc="1641575975655" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/database/drivers/pdo/subdrivers/pdo_oci_forge.php"/>
+  <file crc="1641575975655" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/database/drivers/pdo/subdrivers/pdo_oci_driver.php"/>
+  <file crc="1641575975654" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/database/drivers/pdo/subdrivers/pdo_mysql_forge.php"/>
+  <file crc="1641575975654" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/database/drivers/pdo/subdrivers/pdo_mysql_driver.php"/>
+  <file crc="1641575975654" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/database/drivers/pdo/subdrivers/pdo_informix_forge.php"/>
+  <file crc="1641575975653" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/database/drivers/pdo/subdrivers/pdo_informix_driver.php"/>
+  <file crc="1641575975653" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/database/drivers/pdo/subdrivers/pdo_ibm_forge.php"/>
+  <file crc="1641575975653" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/database/drivers/pdo/subdrivers/pdo_ibm_driver.php"/>
+  <file crc="1641575975652" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/database/drivers/pdo/subdrivers/pdo_firebird_forge.php"/>
+  <file crc="1641575975652" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/database/drivers/pdo/subdrivers/pdo_firebird_driver.php"/>
+  <file crc="1641575975651" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/database/drivers/pdo/subdrivers/pdo_dblib_forge.php"/>
+  <file crc="1641575975651" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/database/drivers/pdo/subdrivers/pdo_dblib_driver.php"/>
+  <file crc="1641575975651" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/database/drivers/pdo/subdrivers/pdo_cubrid_forge.php"/>
+  <file crc="1641575975650" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/database/drivers/pdo/subdrivers/pdo_cubrid_driver.php"/>
+  <file crc="1641575975650" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/database/drivers/pdo/subdrivers/pdo_4d_forge.php"/>
+  <file crc="1641575975649" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/database/drivers/pdo/subdrivers/pdo_4d_driver.php"/>
+  <file crc="1641575975649" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/database/drivers/pdo/subdrivers/index.html"/>
+  <file crc="1641575975648" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/database/drivers/pdo/pdo_utility.php"/>
+  <file crc="1641575975648" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/database/drivers/pdo/pdo_result.php"/>
+  <file crc="1641575975648" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/database/drivers/pdo/pdo_forge.php"/>
+  <file crc="1641575975647" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/database/drivers/pdo/pdo_driver.php"/>
+  <file crc="1641575975647" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/database/drivers/pdo/index.html"/>
+  <file crc="1641575975646" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/database/drivers/odbc/odbc_utility.php"/>
+  <file crc="1641575975646" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/database/drivers/odbc/odbc_result.php"/>
+  <file crc="1641575975646" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/database/drivers/odbc/odbc_forge.php"/>
+  <file crc="1641575975645" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/database/drivers/odbc/odbc_driver.php"/>
+  <file crc="1641575975645" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/database/drivers/odbc/index.html"/>
+  <file crc="1641575975644" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/database/drivers/oci8/oci8_utility.php"/>
+  <file crc="1641575975644" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/database/drivers/oci8/oci8_result.php"/>
+  <file crc="1641575975644" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/database/drivers/oci8/oci8_forge.php"/>
+  <file crc="1641575975643" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/database/drivers/oci8/oci8_driver.php"/>
+  <file crc="1641575975643" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/database/drivers/oci8/index.html"/>
+  <file crc="1641575975642" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/database/drivers/mysqli/mysqli_utility.php"/>
+  <file crc="1641575975642" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/database/drivers/mysqli/mysqli_result.php"/>
+  <file crc="1641575975642" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/database/drivers/mysqli/mysqli_forge.php"/>
+  <file crc="1641575975641" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/database/drivers/mysqli/mysqli_driver.php"/>
+  <file crc="1641575975641" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/database/drivers/mysqli/index.html"/>
+  <file crc="1641575975640" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/database/drivers/mysql/mysql_utility.php"/>
+  <file crc="1641575975640" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/database/drivers/mysql/mysql_result.php"/>
+  <file crc="1641575975640" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/database/drivers/mysql/mysql_forge.php"/>
+  <file crc="1641575975639" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/database/drivers/mysql/mysql_driver.php"/>
+  <file crc="1641575975638" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/database/drivers/mysql/index.html"/>
+  <file crc="1641575975638" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/database/drivers/mssql/mssql_utility.php"/>
+  <file crc="1641575975637" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/database/drivers/mssql/mssql_result.php"/>
+  <file crc="1641575975637" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/database/drivers/mssql/mssql_forge.php"/>
+  <file crc="1641575975636" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/database/drivers/mssql/mssql_driver.php"/>
+  <file crc="1641575975636" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/database/drivers/mssql/index.html"/>
+  <file crc="1641575975635" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/database/drivers/ibase/index.html"/>
+  <file crc="1641575975635" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/database/drivers/ibase/ibase_utility.php"/>
+  <file crc="1641575975634" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/database/drivers/ibase/ibase_result.php"/>
+  <file crc="1641575975634" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/database/drivers/ibase/ibase_forge.php"/>
+  <file crc="1641575975633" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/database/drivers/ibase/ibase_driver.php"/>
+  <file crc="1641575975633" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/database/drivers/cubrid/index.html"/>
+  <file crc="1641575975632" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/database/drivers/cubrid/cubrid_utility.php"/>
+  <file crc="1641575975631" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/database/drivers/cubrid/cubrid_result.php"/>
+  <file crc="1641575975631" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/database/drivers/cubrid/cubrid_forge.php"/>
+  <file crc="1641575975630" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/database/drivers/cubrid/cubrid_driver.php"/>
+  <file crc="1641575975635" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/database/drivers/index.html"/>
+  <file crc="1641575975665" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/database/index.html"/>
+  <file crc="1641575975630" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/database/DB_utility.php"/>
+  <file crc="1641575975629" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/database/DB_result.php"/>
+  <file crc="1641575975628" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/database/DB_query_builder.php"/>
+  <file crc="1641575975627" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/database/DB_forge.php"/>
+  <file crc="1641575975627" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/database/DB_driver.php"/>
+  <file crc="1641575975626" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/database/DB_cache.php"/>
+  <file crc="1641575975625" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/database/DB.php"/>
+  <file crc="1641575975624" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/core/compat/standard.php"/>
+  <file crc="1641575975623" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/core/compat/password.php"/>
+  <file crc="1641575975623" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/core/compat/mbstring.php"/>
+  <file crc="1641575975622" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/core/compat/index.html"/>
+  <file crc="1641575975622" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/core/compat/hash.php"/>
+  <file crc="1641575975621" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/core/Utf8.php"/>
+  <file crc="1641575975621" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/core/URI.php"/>
+  <file crc="1641575975620" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/core/Security.php"/>
+  <file crc="1641575975620" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/core/Router.php"/>
+  <file crc="1641575975619" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/core/Output.php"/>
+  <file crc="1641575975618" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/core/Model.php"/>
+  <file crc="1641575975618" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/core/Log.php"/>
+  <file crc="1641575975617" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/core/Loader.php"/>
+  <file crc="1641575975616" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/core/Lang.php"/>
+  <file crc="1641575975616" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/core/Input.php"/>
+  <file crc="1641575975625" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/core/index.html"/>
+  <file crc="1641575975615" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/core/Hooks.php"/>
+  <file crc="1641575975614" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/core/Exceptions.php"/>
+  <file crc="1641575975614" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/core/Controller.php"/>
+  <file crc="1641575975613" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/core/Config.php"/>
+  <file crc="1641575975613" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/core/Common.php"/>
+  <file crc="1641575975612" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/core/CodeIgniter.php"/>
+  <file crc="1641575975611" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/core/Benchmark.php"/>
+  <file crc="1641575975674" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/system/index.html"/>
+  <file crc="1641575975606" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/application/views/errors/html/index.html"/>
+  <file crc="1641575975605" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/application/views/errors/html/error_php.php"/>
+  <file crc="1641575975605" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/application/views/errors/html/error_general.php"/>
+  <file crc="1641575975604" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/application/views/errors/html/error_exception.php"/>
+  <file crc="1641575975604" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/application/views/errors/html/error_db.php"/>
+  <file crc="1641575975603" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/application/views/errors/html/error_404.php"/>
+  <file crc="1641575975603" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/application/views/errors/cli/index.html"/>
+  <file crc="1641575975602" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/application/views/errors/cli/error_php.php"/>
+  <file crc="1641575975602" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/application/views/errors/cli/error_general.php"/>
+  <file crc="1641575975601" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/application/views/errors/cli/error_exception.php"/>
+  <file crc="1641575975601" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/application/views/errors/cli/error_db.php"/>
+  <file crc="1641575975600" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/application/views/errors/cli/error_404.php"/>
+  <file crc="1641575975606" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/application/views/errors/index.html"/>
+  <file crc="1641575975607" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/application/views/welcome_message.php"/>
+  <file crc="1641575975607" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/application/views/index.html"/>
+  <file crc="1641577596427" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/application/views/gracias.php"/>
+  <file crc="1641575975599" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/application/third_party/index.html"/>
+  <file crc="1641575975599" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/application/models/index.html"/>
+  <file crc="1641575975598" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/application/logs/index.html"/>
+  <file crc="1641575975598" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/application/libraries/index.html"/>
+  <file crc="1641575975596" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/application/language/english/index.html"/>
+  <file crc="1641575975597" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/application/language/index.html"/>
+  <file crc="1641575975595" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/application/hooks/index.html"/>
+  <file crc="1641575975595" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/application/helpers/index.html"/>
+  <file crc="1641575975595" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/application/core/index.html"/>
+  <file crc="1641575975594" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/application/controllers/Welcome.php"/>
+  <file crc="1641575975594" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/application/controllers/index.html"/>
+  <file crc="1641577606353" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/application/controllers/Gracias.php"/>
+  <file crc="1641575975594" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/application/config/user_agents.php"/>
+  <file crc="1641575975593" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/application/config/smileys.php"/>
+  <file crc="1641575975593" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/application/config/routes.php"/>
+  <file crc="1641575975593" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/application/config/profiler.php"/>
+  <file crc="1641575975592" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/application/config/mimes.php"/>
+  <file crc="1641575975592" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/application/config/migration.php"/>
+  <file crc="1641575975592" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/application/config/memcached.php"/>
+  <file crc="1641575975591" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/application/config/index.html"/>
+  <file crc="1641575975591" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/application/config/hooks.php"/>
+  <file crc="1641575975591" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/application/config/foreign_chars.php"/>
+  <file crc="1641575975591" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/application/config/doctypes.php"/>
+  <file crc="1641575975590" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/application/config/database.php"/>
+  <file crc="1641575975590" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/application/config/constants.php"/>
+  <file crc="1641575975831" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/application/config/config.php"/>
+  <file crc="1641575975589" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/application/config/autoload.php"/>
+  <file crc="1641575975589" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/application/cache/index.html"/>
+  <file crc="1641575975596" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/application/index.html"/>
+  <file crc="1641575975610" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/license.txt"/>
+  <file crc="1641575975609" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/index.php"/>
+  <file crc="1641575975608" name="/Users/edgar/Desarrollo/Introducción a CodeIgniter/hola-mundo/composer.json"/>
+ </filescache>
+</project>
